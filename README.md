@@ -1,1 +1,1 @@
-这个仓库是Fork过来的，用于存放Twikoo评论
+这个仓库是Fork过来的，交由Vercel托管，用于存放Twikoo评论
